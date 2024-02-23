@@ -2,6 +2,8 @@
   
 Temporarily hosted on UCD servers: https://csi6220-2-vm1.ucd.ie/
 
+## Click the Image Below to see our Project Video on Youtube 👇
+
 [![tourify](https://i.ytimg.com/vi/UPQR8Njfcm8/maxresdefault.jpg)](https://www.youtube.com/watch?v=UPQR8Njfcm8 "tourify")
 
 ### Abstract
